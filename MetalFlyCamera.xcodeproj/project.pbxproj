@@ -14,6 +14,7 @@
 		834B7B7D2381EFE600A8FBDB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 834B7B7C2381EFE600A8FBDB /* Assets.xcassets */; };
 		834B7B802381EFE600A8FBDB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 834B7B7E2381EFE600A8FBDB /* Main.storyboard */; };
 		834B7B8D2381FB1700A8FBDB /* FlyCamera.swift in Sources */ = {isa = PBXBuildFile; fileRef = 834B7B8C2381FB1700A8FBDB /* FlyCamera.swift */; };
+		83C0D01E238221B1005F098F /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 83C0D01D238221B1005F098F /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		834B7B822381EFE600A8FBDB /* MetalFlyCamera.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = MetalFlyCamera.entitlements; sourceTree = "<group>"; };
 		834B7B882381F06500A8FBDB /* BridgingHeader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BridgingHeader.h; sourceTree = "<group>"; };
 		834B7B8C2381FB1700A8FBDB /* FlyCamera.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlyCamera.swift; sourceTree = "<group>"; };
+		83C0D01D238221B1005F098F /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +47,7 @@
 		834B7B672381EFE400A8FBDB = {
 			isa = PBXGroup;
 			children = (
+				83C0D01D238221B1005F098F /* README.md */,
 				834B7B722381EFE400A8FBDB /* MetalFlyCamera */,
 				834B7B712381EFE400A8FBDB /* Products */,
 			);
@@ -134,6 +137,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				83C0D01E238221B1005F098F /* README.md in Resources */,
 				834B7B7D2381EFE600A8FBDB /* Assets.xcassets in Resources */,
 				834B7B802381EFE600A8FBDB /* Main.storyboard in Resources */,
 			);
